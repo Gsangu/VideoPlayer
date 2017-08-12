@@ -1,0 +1,14 @@
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\bin\Debug\视频播放器.exe.config
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\bin\Debug\视频播放器.exe
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\bin\Debug\视频播放器.pdb
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\bin\Debug\Interop.APlayer3Lib.dll
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\bin\Debug\AxInterop.APlayer3Lib.dll
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.csprojResolveAssemblyReference.cache
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\Interop.APlayer3Lib.dll
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\AxInterop.APlayer3Lib.dll
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.csproj.ResolveComReference.cache
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.Properties.Resources.resources
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.csproj.GenerateResource.Cache
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.exe
+c:\users\gsan\documents\visual studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.pdb
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\视频播放器\视频播放器\obj\Debug\视频播放器.MyPlayer.resources
